@@ -7,6 +7,6 @@ bool debutant = true;
 
   print('Nom : $nom');
   print('Age : $age ans');
-  print('note : $note');
+  print('Note : $note');
   print('Débutant : $debutant');
 }
