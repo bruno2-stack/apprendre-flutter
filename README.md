@@ -48,6 +48,17 @@ apprendre-flutter/
     ├── bonjour.dart
     └── exercices_sur_variables.dart
     └── condition.dart
+    └── condition_approfondi.dart
+    └── boucles_listes.dart
+    └── fonctions.dart
+    └── gestion_notes.dart
+    └── fonctions_parametres.dart
+    └── collections.dart
+    └── gestion_erreures.dart
+    └── defis_1.dart
+    └── defis_2.dart
+    └── defis_3.dart
+
 
 ```
 
@@ -69,11 +80,11 @@ Cette structure évoluera au fur et à mesure de l'ajout de nouveaux exercices e
 - [x] Utilisation de l'instruction `print()`.
 - [x] Découverte des types `String`, `int`, `double` et `bool`.
 - [x] Premières conditions avec `if/else`.
-- [ ] Approfondissement des conditions et des opérateurs.
-- [ ] Boucles `for` et `while`.
-- [ ] Fonctions et paramètres.
-- [ ] Listes, ensembles et dictionnaires (`Map`).
-- [ ] Gestion des erreurs et exceptions.
+- [x] Approfondissement des conditions et des opérateurs.
+- [x] Boucles `for` et `while`.
+- [x] Fonctions et paramètres.
+- [x] Listes, ensembles et dictionnaires (`Map`).
+- [x] Gestion des erreurs et exceptions.
 
 ### Module 2 — Découverte de Flutter
 
